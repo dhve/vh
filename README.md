@@ -8,9 +8,13 @@ The v/h company website, published with GitHub Pages at https://vh.do.
 - `philosophy.html` contains the founder's article.
 - `styles.css` and `brand.css` contain the styles.
 - `site.js` controls the navigation and interactive diagrams.
+- `navigation.mjs` handles clean section URLs and older bookmarks.
+- `routes.mjs` defines the home and philosophy section paths.
 - `assets/` contains the images, favicon, and Neue Montreal font files.
 
-The site uses plain HTML, CSS, and JavaScript. It has no build step or package dependencies.
+The site uses plain HTML, CSS, and JavaScript with no package dependencies. Run `npm run build` after editing either source HTML page or the route map, then run `npm test`. The build generates directory entry pages for clean URLs such as `/idea/`, `/philosophy/`, and `/philosophy/owning-it/`. Commit those generated pages with the source changes so direct visits and refreshes work on GitHub Pages.
+
+The generated pages contain a comment identifying their source. Edit `index.html` or `philosophy.html` instead of editing generated copies. The old `philosophy.html` page remains available for existing bookmarks and updates its address to `/philosophy/` when JavaScript runs.
 
 ## Preview
 

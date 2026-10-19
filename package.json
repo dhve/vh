@@ -1,0 +1,8 @@
+{
+  "name": "vh-site",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-routes.mjs",
+    "test": "node --test && node scripts/build-routes.mjs --check"
+  }
+}

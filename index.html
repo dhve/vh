@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-page="home">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,6 +17,7 @@
   <link rel="preload" href="assets/neuemontreal-regular.otf" as="font" type="font/otf" crossorigin>
   <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="brand.css">
   <script src="site.js" defer></script>
+  <script type="module" src="navigation.mjs"></script>
 </head>
 <body id="top">
   <a class="skip-link" href="#main">Skip to content</a>
@@ -25,10 +26,10 @@
     <p class="header-descriptor">Technology for<br>everyday life.</p>
     <button class="menu-toggle" type="button" aria-controls="navigation" aria-expanded="false">Menu <span aria-hidden="true">+</span></button>
     <nav id="navigation" class="navigation" aria-label="Main navigation">
-      <a href="#idea">The idea</a>
-      <a href="#approach">Our approach</a>
-      <a href="#questions">Questions</a>
-      <a href="philosophy.html">Our philosophy <span aria-hidden="true">↗</span></a>
+      <a href="idea/">The idea</a>
+      <a href="approach/">Our approach</a>
+      <a href="questions/">Questions</a>
+      <a href="philosophy/">Our philosophy <span aria-hidden="true">↗</span></a>
     </nav>
   </header>
   <main id="main">
@@ -37,7 +38,7 @@
         <p class="eyebrow">A new kind of consumer technology.</p>
         <h1 id="hero-title">Made to be<br><span class="hero-emphasis">useful<span class="red">.</span></span></h1>
         <p class="hero-intro">We're building everyday things that take care of the complicated part.</p>
-        <a class="text-link hero-link" href="#idea"><span class="circle-arrow" aria-hidden="true">↓</span> Meet v/h</a>
+        <a class="text-link hero-link" href="idea/"><span class="circle-arrow" aria-hidden="true">↓</span> Meet v/h</a>
         <div class="hero-footnote"><span aria-hidden="true">/</span><p>Intelligence under the hood.<br>Simplicity in your hands.</p></div>
       </div>
       <figure class="hero-study">
@@ -48,7 +49,7 @@
       </figure>
     </section>
 
-    <div class="intro-strip wrap" aria-label="Our ambition"><span>New possibilities.</span><span class="strip-slash" aria-hidden="true">/</span><span>Familiar simplicity.</span><a href="#approach" aria-label="Explore our approach"><span aria-hidden="true">↘</span></a></div>
+    <div class="intro-strip wrap" aria-label="Our ambition"><span>New possibilities.</span><span class="strip-slash" aria-hidden="true">/</span><span>Familiar simplicity.</span><a href="approach/" aria-label="Explore our approach"><span aria-hidden="true">↘</span></a></div>
 
     <section id="idea" class="idea section wrap" aria-labelledby="idea-title">
       <p class="section-label label">The idea</p>
@@ -58,7 +59,7 @@
           <p class="large-copy">The best everyday objects make their purpose obvious.</p>
           <p>You pick them up. They do their job. You get on with your day.</p>
           <p>We think consumer technology should feel just as natural. So we're working on physical utilities that meet a common need, do a useful job, and ask very little of the person using them.</p>
-          <a class="inline-link" href="philosophy.html">Read our philosophy <span aria-hidden="true">↗</span></a>
+          <a class="inline-link" href="philosophy/">Read our philosophy <span aria-hidden="true">↗</span></a>
         </div>
       </div>
     </section>
@@ -147,7 +148,7 @@
           <div class="ownership-point"><h3>Start without setup.</h3><p>Our aim is to let you use the core function without an account, a companion app, or pairing it with your phone.</p></div>
           <div class="ownership-point"><h3>Know where you stand.</h3><p>You should understand when the task is complete and when something needs your attention. The device should explain the outcome in everyday terms.</p></div>
           <div class="ownership-point"><h3>Keep what you bought.</h3><p>The computing needed for the job should live in the device. Continued use should come with ownership, without a subscription or a connection to a service.</p></div>
-          <a class="inline-link" href="philosophy.html#owning-it">More about ownership <span aria-hidden="true">↗</span></a>
+          <a class="inline-link" href="philosophy/owning-it/">More about ownership <span aria-hidden="true">↗</span></a>
         </div>
       </div>
     </section>
@@ -173,7 +174,7 @@
           <p>Something with a clear purpose. Something that makes a small part of everyday life easier, and keeps doing it well.</p>
           <p>That's the ambition behind v/h. We're at the beginning, developing our first utility. The product has to earn its place. This is the standard we're building towards.</p>
           <div class="founder-signoff"><span>Vedh</span><span class="label">Founder, v/h</span></div>
-          <a class="inline-link" href="philosophy.html">The full thinking behind v/h <span aria-hidden="true">↗</span></a>
+          <a class="inline-link" href="philosophy/">The full thinking behind v/h <span aria-hidden="true">↗</span></a>
         </div>
       </div>
     </section>
@@ -184,20 +185,20 @@
         <details><summary>Is v/h building one device that does everything?<span class="disclosure-mark" aria-hidden="true"></span></summary><div class="answer"><p>We're looking for a focused job with a broadly shared need. A product can help many people without trying to do everything.</p><p>Over time, we'd like to build a family of utilities. Each one should be useful on its own.</p></div></details>
         <details><summary>Will I need to talk to an AI?<span class="disclosure-mark" aria-hidden="true"></span></summary><div class="answer"><p>Our goal is an understandable set of controls tied to the task. Writing prompts, choosing a model, and managing the agent should not be part of the owner's job.</p><p>The agent belongs inside the product, where it can help do the work.</p></div></details>
         <details><summary>Why does local operation matter?<span class="disclosure-mark" aria-hidden="true"></span></summary><div class="answer"><p>We want the core capability to be part of the object you buy. It should work without an internet connection or an ongoing subscription.</p><p>Keeping computation in the device can also reduce the need to send personal information elsewhere. Protecting that information still requires careful engineering.</p></div></details>
-        <details><summary>What is the first product, and when can I get it?<span class="disclosure-mark" aria-hidden="true"></span></summary><div class="answer"><p>We haven't announced a product, a price, or a release date. We're developing the first utility around the principles on this page.</p><p>The familiar objects photographed here are references for simplicity and usefulness. They are not v/h products.</p><a class="inline-link" href="philosophy.html#the-first-product">Read about the first product <span aria-hidden="true">↗</span></a></div></details>
+        <details><summary>What is the first product, and when can I get it?<span class="disclosure-mark" aria-hidden="true"></span></summary><div class="answer"><p>We haven't announced a product, a price, or a release date. We're developing the first utility around the principles on this page.</p><p>The familiar objects photographed here are references for simplicity and usefulness. They are not v/h products.</p><a class="inline-link" href="philosophy/the-first-product/">Read about the first product <span aria-hidden="true">↗</span></a></div></details>
       </div>
     </section>
     <section class="closing wrap" aria-label="Our ambition">
       <p class="label">Our first utility is in development.</p>
       <p class="closing-line">Less to manage.<br>More to live.</p>
-      <a class="text-link" href="philosophy.html"><span class="circle-arrow" aria-hidden="true">↗</span> Get to know the idea</a>
+      <a class="text-link" href="philosophy/"><span class="circle-arrow" aria-hidden="true">↗</span> Get to know the idea</a>
     </section>
   </main>
   <footer class="site-footer wrap">
-    <div class="footer-top"><p>Everyday consumer technology.</p><a href="#top">Back to top <span aria-hidden="true">↑</span></a></div>
-    <nav class="footer-navigation" aria-label="Explore v/h"><a href="#idea">The idea</a><a href="#approach">Under the hood</a><a href="#ownership">Ownership</a><a href="#questions">Questions</a><a href="philosophy.html">Our philosophy <span aria-hidden="true">↗</span></a></nav>
+    <div class="footer-top"><p>Everyday consumer technology.</p><a href="./">Back to top <span aria-hidden="true">↑</span></a></div>
+    <nav class="footer-navigation" aria-label="Explore v/h"><a href="idea/">The idea</a><a href="approach/">Under the hood</a><a href="ownership/">Ownership</a><a href="questions/">Questions</a><a href="philosophy/">Our philosophy <span aria-hidden="true">↗</span></a></nav>
     <div class="footer-brand" aria-label="v/h">v/h<span class="footer-thought">Useful enough<br>to need.<br>Simple enough<br>to just use.</span></div>
-    <div class="footer-bottom label"><span>© v/h</span><span>Made to be useful.</span><a href="philosophy.html">Our philosophy <span aria-hidden="true">↗</span></a></div>
+    <div class="footer-bottom label"><span>© v/h</span><span>Made to be useful.</span><a href="philosophy/">Our philosophy <span aria-hidden="true">↗</span></a></div>
   </footer>
 </body>
 </html>
