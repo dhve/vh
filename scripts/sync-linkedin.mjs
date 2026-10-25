@@ -33,6 +33,7 @@ for (const entry of verified) {
   ids.add(entry.key);
   const source = publicURL(entry.url);
   if (!['www.linkedin.com', 'linkedin.com'].includes(source.hostname) || !/^\/feed\/update\/urn:li:(share|activity|ugcPost):\d+\/?$/.test(source.pathname)) throw new Error(`Expected a LinkedIn post permalink: ${entry.key}`);
+  source.hostname = 'www.linkedin.com';
   source.search = ''; source.hash = '';
   source.pathname = source.pathname.replace(/\/?$/, '/');
   if (sources.has(source.href)) throw new Error(`Duplicate source post: ${entry.key}`);

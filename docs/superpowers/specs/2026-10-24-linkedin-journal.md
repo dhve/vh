@@ -1,6 +1,6 @@
 # v/h LinkedIn journal
 
-Add all verified public company posts to vh.do as individual articles under /journal/. Reuse the Philosophy page's Neue Montreal typography, ivory reading surface, large titles, byline, narrow prose column and footer. The archive is a simple chronological editorial list with a featured latest entry, not a card grid. Add Journal to the existing navigation.
+Add all verified public company posts to vh.do as individual articles under /journal/. Reuse the Philosophy page's Neue Montreal typography, ivory reading surface, large titles, byline, narrow prose column and footer. The archive is a simple chronological editorial list with the latest visual entry featured above it. Add Journal to the existing navigation.
 
 Preserve the full substantive copy, original publication date, source LinkedIn URL and every original attachment. Omit hashtag-only lines from article presentation. Keep film disclosures and all statements about development intact. Images and videos are served locally; videos have controls and no autoplay. Documents have readable page images, extracted text alternatives and their original downloadable PDF. URLs work on direct visits and refreshes without fragments. Static content works without JavaScript.
 

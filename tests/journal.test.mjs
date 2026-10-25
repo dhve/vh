@@ -48,7 +48,7 @@ test('missing assets and duplicate identities fail before changing the existing 
   assert.equal(sync(root).status, 0);
   const path = join(root, 'content/journal/posts.json');
   const original = await readFile(path, 'utf8');
-  for (const posts of [[post({format:'image',file:'missing.png'})], [post(), post()], [post(), post({key:'alias'})]]) {
+  for (const posts of [[post({format:'image',file:'missing.png'})], [post(), post()], [post(), post({key:'alias'})], [post(), post({key:'hostname-alias',url:'https://linkedin.com/feed/update/urn:li:share:123456/'})]]) {
     await writeFile(join(root, 'ledger.json'), JSON.stringify(posts));
     assert.notEqual(sync(root).status, 0);
     assert.equal(await readFile(path, 'utf8'), original);
