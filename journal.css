@@ -1,0 +1,52 @@
+/* Journal uses the same Neue Montreal, paper, margins and prose as Philosophy. */
+.journal-intro{display:flex;align-items:flex-end;justify-content:space-between;gap:40px;padding-bottom:64px}
+.journal-intro .article-title{font-size:clamp(88px,12vw,158px);line-height:.9}
+.journal-intro-copy{font-size:23px;line-height:1.35;letter-spacing:-.025em;padding-bottom:5px}
+.journal-feature{display:grid;grid-template-columns:1fr 1fr;gap:62px;align-items:center;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:36px 0}
+.journal-feature-image{display:block;max-width:420px;background:var(--paper)}
+.journal-feature-image img{width:100%;height:auto;display:block}
+.journal-feature-copy .label{color:var(--muted);margin-bottom:27px}
+.journal-feature-copy h2{font-size:clamp(36px,4.1vw,58px);font-weight:400;line-height:1.06;letter-spacing:-.05em;margin:0 0 25px}
+.journal-feature-copy h2 a,.journal-entry{text-decoration:none;color:inherit}
+.journal-feature-copy>p:not(.label){font-size:19px;line-height:1.5;max-width:420px;margin-bottom:30px}
+.journal-feature-copy h2 a:hover,.journal-entry:hover h3{color:var(--red)}
+.journal-archive{margin-top:82px}
+.journal-archive-heading{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:25px;gap:15px}
+.journal-archive-heading h2{font-size:30px;font-weight:400;letter-spacing:-.04em}
+.journal-archive-heading .label{color:var(--muted)}
+.journal-entries{list-style:none;margin:0;padding:0;border-top:1px solid var(--ink)}
+.journal-entry{display:grid;grid-template-columns:160px minmax(0,1fr) 95px 24px;gap:22px;align-items:baseline;border-bottom:1px solid var(--line);padding:29px 0}
+.journal-entry time{font-size:13px;color:var(--muted)}
+.journal-entry h3{font-size:27px;line-height:1.16;letter-spacing:-.035em;font-weight:400;margin:0 0 10px;transition:color .15s}
+.journal-entry p{font-size:15px;line-height:1.5;color:var(--muted);max-width:560px;margin:0}
+.journal-entry-kind{font-size:10px;white-space:nowrap}
+.journal-entry-arrow{font-size:26px}
+.journal-bottom{display:flex;gap:28px;align-items:baseline;flex-wrap:wrap;padding-top:64px;font-size:18px}
+.journal-rss{font-size:13px;color:var(--muted);margin-left:auto}
+.journal-article .article-title{max-width:1000px;font-size:clamp(52px,6.8vw,96px);text-wrap:balance}
+.journal-article .article-kicker a{text-decoration:none}
+.journal-article .article-byline{margin-top:32px}
+.journal-aside{font-size:13px;line-height:1.6}
+.journal-aside>a{display:block;margin-top:20px;text-decoration:none}
+.journal-aside>a:hover{text-decoration:underline;text-underline-offset:4px}
+.journal-media{margin:40px 0}
+.journal-media img,.journal-media video,.journal-document-page img{display:block;width:100%;height:auto}
+.journal-media video{background:#242622;aspect-ratio:16/9}
+.journal-film{margin-top:0}
+.journal-media figcaption,.journal-document-page figcaption{font-size:12px;line-height:1.5;color:var(--muted);margin-top:12px}
+.journal-media figcaption a{display:block;margin-top:8px}
+.journal-document{margin:45px 0}
+.document-heading{display:flex;justify-content:space-between;gap:20px;align-items:baseline;border-top:1px solid var(--ink);padding:20px 0;font-size:13px}
+.journal-document-page{margin:0 0 24px}
+.journal-document-page img{border:1px solid var(--line)}
+.journal-document summary{cursor:pointer;font-size:16px;padding:19px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);list-style:none;display:flex;justify-content:space-between;gap:20px}
+.journal-document summary::-webkit-details-marker{display:none}
+.journal-document details[open] summary{margin-bottom:25px}
+.journal-document details[open] summary span{transform:rotate(45deg)}
+.journal-next{font-size:32px;line-height:1.15;letter-spacing:-.03em;text-decoration:none;display:block}
+.journal-next:hover{color:var(--red)}
+.journal-article .article-prose ul{padding-left:23px;margin:0 0 24px}
+.journal-article .article-prose li{padding-left:3px}
+@media(max-width:900px){.journal-feature{gap:36px}.journal-entry{grid-template-columns:125px minmax(0,1fr) 24px}.journal-entry-kind{display:none}.journal-intro-copy{font-size:20px}}
+@media(max-width:760px){.journal-intro{align-items:flex-start;padding-bottom:38px}.journal-intro-copy{font-size:17px}.journal-feature{gap:28px}.journal-feature-copy h2{font-size:36px}.journal-feature-copy>p:not(.label){font-size:16px}.journal-entry{grid-template-columns:105px minmax(0,1fr) 20px;gap:16px}.journal-entry h3{font-size:24px}.journal-entry time{font-size:12px}.journal-aside{display:flex;align-items:baseline;gap:25px;flex-wrap:wrap}.journal-aside .label{display:none}.journal-aside>a{margin:0}.journal-article .article-layout{gap:28px}.journal-rss{margin-left:0}}
+@media(max-width:540px){.journal-intro{display:block}.journal-intro .article-title{font-size:98px}.journal-intro-copy{margin:30px 0 0;font-size:19px}.journal-feature{grid-template-columns:1fr;gap:29px;padding:25px 0 34px}.journal-feature-image{max-width:100%}.journal-feature-copy .label{margin-bottom:17px}.journal-feature-copy h2{font-size:39px}.journal-feature-copy>p:not(.label){font-size:17px}.journal-archive{margin-top:52px}.journal-archive-heading{display:block}.journal-archive-heading .label{display:block;margin-top:10px}.journal-entry{grid-template-columns:minmax(0,1fr) 20px;padding:24px 0;gap:10px}.journal-entry time{grid-column:1 / -1}.journal-entry h3{font-size:26px}.journal-entry p{font-size:14px}.journal-entry-arrow{grid-column:2;grid-row:2}.journal-bottom{display:block;padding-top:40px}.journal-bottom a{display:table;margin-top:22px}.journal-article .article-title{font-size:clamp(43px,11vw,61px);line-height:1.03}.journal-article .article-byline{gap:12px 20px;flex-wrap:wrap}.journal-article .article-layout{margin-top:30px}.journal-aside{font-size:12px;gap:18px}.document-heading{font-size:12px;gap:12px}.document-heading .label{font-size:10px}.journal-next{font-size:28px}}

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "2026-10-24-hear-from-you",
+    "slug": "2026-10-24-hear-from-you",
+    "title": "What would you like to hear from us?",
+    "body": "How are you today? Tell us what you want to hear from us.\n\nIf you want to stay up-to-date with us, follow our page.",
+    "date": "2026-10-24",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7519995160265678848/",
+    "media": [],
+    "linkPreview": {
+      "title": "v/h on LinkedIn",
+      "url": "https://www.linkedin.com/company/vhvh/"
+    }
+  },
+  {
+    "id": "2026-10-24-check-the-result",
+    "slug": "2026-10-24-check-the-result",
+    "title": "Design the action and the check together",
+    "body": "A device can follow an instruction and still leave the job unfinished.\n\nImagine a device meant to move an object. The motor turns, but the object slips and stays where it was. A record of the motor running would tell us very little about whether the task succeeded.\n\nFor v/h, an agent under the hood needs feedback about the result it is meant to produce. A local model should use the device's inputs to check what happened after acting through its tools.\n\nDuring design, we want to identify an observation that distinguishes success from an attempted action.\n\nThe check should help determine the hardware, the software and what the owner sees. If the device cannot verify the result, it should communicate that uncertainty.\n\nThe document uses an imagined task to explain the requirement. Our first utility is still in development.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-24",
+    "format": "document",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7519785660543848448/",
+    "media": [
+      {
+        "kind": "document",
+        "src": "assets/journal/2026-10-24-check-the-result/2026-10-24-check-the-result.pdf",
+        "alt": "Design the action and the check together",
+        "pages": [
+          {
+            "src": "assets/journal/2026-10-24-check-the-result/2026-10-24-check-the-result-1.jpg",
+            "alt": "Design the action and the check together. Page 1 of 3. An illustrative example The motor ran. The object stayed put. Actual position Intended position Moving a mechanism does not prove that the requested job is complete. An imagined task, not a product announcement. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-10-24-check-the-result/2026-10-24-check-the-result-2.jpg",
+            "alt": "Design the action and the check together. Page 2 of 3. Choose what to observe What does each signal prove? The command arrived. The device received a request. The motor turned. Part of the mechanism moved. The object reached its target. The requested move happened. Choose feedback that can verify the result. An illustrative example of checking an outcome. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-10-24-check-the-result/2026-10-24-check-the-result-3.jpg",
+            "alt": "Design the action and the check together. Page 3 of 3. A requirement for v/h Design the action and the check together. Define the result before choosing the sensor. Ask what each input can prove and what it can miss. If the result cannot be verified, show the uncertainty. A design requirement. Our first utility is in development. vh.do"
+          }
+        ]
+      }
+    ],
+    "publishedAt": "2026-10-24T15:43:26.215Z"
+  },
+  {
+    "id": "2026-10-21-shared-use",
+    "slug": "2026-10-21-shared-use",
+    "title": "Usable by the person who did not set it up",
+    "body": "The person who didn't set it up should be able to use it.\n\nImagine a device on a shared kitchen counter. One person prefers a different result and changes a setting. The next person presses Start.\n\nThey should be able to see what will happen before the device begins.\n\nFor v/h, familiar controls have to include understandable settings. A preference saved by one person shouldn't become a surprise for the next.\n\nA useful check during development would be to hand the product to someone who hasn't seen the demo. Explain its purpose, then see whether they can start the core job and recognize the outcome without coaching.\n\nWe want the agent to adapt how the work gets done while keeping the intended result under the user's control.\n\nWe're treating shared use as a design requirement for our first utility, which is still in development.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-21",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7518710791563481088/",
+    "media": [],
+    "publishedAt": "2026-10-21T16:32:19.409Z"
+  },
+  {
+    "id": "2026-10-20-whole-routine",
+    "slug": "2026-10-20-whole-routine",
+    "title": "Count the whole job",
+    "body": "Count the work after \"done.\"\n\nImagine a device that saves three minutes on a task, then adds five minutes of cleanup. The main action got faster, but the whole routine got longer.\n\nFor v/h, usefulness has to include setup, cleanup and upkeep. A result can be good while the product is still too much work to own.\n\nWe want to compare the owner's total effort with the way they already do the job. That includes getting the product ready for next time.\n\nAn agent under the hood has to earn its place in that comparison. Added capability should come with a manageable routine.\n\nOur first utility is in development. Manageable upkeep is a design requirement we still have to prove in use.\n\nWhat device do you use less often because cleaning it is too much work?\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-20",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7518404587364540416/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/2026-10-20-whole-routine/2026-10-20-whole-routine.png",
+        "alt": "An ivory v/h design graphic with the headline Count the whole job. Four steps read Get ready, Do the task, Clean up, and Put it away. Do the task is highlighted in red, and a red bracket spans all four steps. Supporting text says The whole routine counts. The footer reads A design requirement for our first utility, with vh.do."
+      }
+    ],
+    "publishedAt": "2026-10-20T20:17:21.188Z"
+  },
+  {
+    "id": "2026-10-20-stay-for-the-story-film",
+    "slug": "2026-10-20-stay-for-the-story-film",
+    "title": "Life with v/h: Stay for the story",
+    "body": "Stay for the story.\n\nSome things deserve your undivided attention.\n\nA v/h concept film. Imagined product and AI-generated people.",
+    "date": "2026-10-20",
+    "format": "video",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:activity:7518225593042321408/",
+    "media": [
+      {
+        "kind": "video",
+        "src": "assets/journal/2026-10-20-stay-for-the-story-film/life-with-vh-stay-for-the-story.mp4",
+        "alt": "Life with v/h: Stay for the story",
+        "poster": "assets/journal/2026-10-20-stay-for-the-story-film/cover.jpg"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:27:09.370Z"
+  },
+  {
+    "id": "2026-10-20-keep-the-favourite-film",
+    "slug": "2026-10-20-keep-the-favourite-film",
+    "title": "Life with v/h: Keep the favourite",
+    "body": "Keep the favourite.\n\nUseful technology should help us keep the things we love.\n\nA v/h concept film. Imagined product and AI-generated people.",
+    "date": "2026-10-20",
+    "format": "video",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:activity:7518223901127016448/",
+    "media": [
+      {
+        "kind": "video",
+        "src": "assets/journal/2026-10-20-keep-the-favourite-film/life-with-vh-keep-the-favourite.mp4",
+        "alt": "Life with v/h: Keep the favourite",
+        "poster": "assets/journal/2026-10-20-keep-the-favourite-film/cover.jpg"
+      }
+    ],
+    "publishedAt": "2026-10-20T08:18:36.421Z"
+  },
+  {
+    "id": "2026-10-20-life-with-vh-film",
+    "slug": "2026-10-20-life-with-vh-film",
+    "title": "Life with v/h: The Stare",
+    "body": "Let life have your attention.\n\nLife with v/h. Made to be useful.\n\nConcept film. Imagined products and AI-generated people.",
+    "date": "2026-10-20",
+    "format": "video",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518216736198893571/",
+    "media": [
+      {
+        "kind": "video",
+        "src": "assets/journal/2026-10-20-life-with-vh-film/life-with-vh-the-stare-elevenlabs-30s.mp4",
+        "alt": "Life with v/h: The Stare",
+        "poster": "assets/journal/2026-10-20-life-with-vh-film/film-poster.jpg"
+      }
+    ],
+    "publishedAt": "2026-10-20T07:52:21.141Z"
+  },
+  {
+    "id": "2026-10-19-recovery",
+    "slug": "2026-10-19-recovery",
+    "title": "What an interrupted task should tell you",
+    "body": "If a device stops halfway through a task, 'Try again' isn't enough.\n\nImagine pressing Start and coming back to a device that has gone silent. You can't tell how much it finished, or whether starting again will repeat work it has already done.\n\nFor v/h, recovering from an interruption belongs in the design from the start. The owner should be able to tell:\n\n• What finished.\n• What still needs attention.\n• What will happen if they try again.\n\nThe agent inside should check the current state before repeating an action. It needs evidence of the result before the product marks a task complete. When it can't verify what happened, the product should explain the uncertainty and give the owner a clear next step.\n\nA simple control is only part of a simple experience. We also want someone to understand what to do after an interrupted job, without having to diagnose the software inside.\n\nWe're treating recovery as a design requirement while developing our first everyday utility.\n\nWhat's an error message on a device you own that still leaves you unsure what to do next?\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-19",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7517989944703811584/",
+    "media": [],
+    "publishedAt": "2026-10-19T16:48:00.072Z"
+  },
+  {
+    "id": "less-to-manage",
+    "slug": "less-to-manage",
+    "title": "Less time managing the product",
+    "body": "A useful device can succeed by giving you fewer reasons to interact with it.\n\nFor an everyday utility, we care about whether the job gets done and how much effort the owner has to spend. Time spent setting it up, checking its output, or recovering from an error is part of that effort.\n\nWe want a person to start a task, understand the outcome, and get on with their day. A clear control and understandable feedback should make the product comfortable to use, even when the capability inside is new.\n\nAn agent earns its place when it helps deliver that experience.\n\nWe're developing our first utility around this standard. Follow v/h as we work through the choices needed to make it useful in everyday life.\n\n#ConsumerTechnology #ProductDesign",
+    "date": "2026-10-18",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7517818330569691137/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/less-to-manage/vh-less-to-manage.png",
+        "alt": "An ivory v/h graphic on a charcoal background. Large text reads Less to manage. More to live. A red line separates the headline from the words A clear action. A useful result. On with your day."
+      }
+    ],
+    "publishedAt": "2026-10-19T05:26:12.641Z"
+  },
+  {
+    "id": "ordinary-week",
+    "slug": "ordinary-week",
+    "title": "What an everyday utility has to prove",
+    "body": "We want to judge our first utility by an ordinary week of use.\n\nA successful demonstration gives us a starting point. Repeated use has to show that the product handles normal variation, completes the job, and communicates clearly when it can't.\n\nOur development questions cover the whole experience. The task needs to recur. The controls need to make sense. The result needs to be dependable. Price and upkeep need to fit the people the product is for.\n\nWe also want to understand how much checking the owner has to do. A device that repeatedly needs someone to verify or redo its work can give effort back to the person it was meant to help.\n\nThe document below sets out the standard we're working toward. It describes what we need to establish through development, rather than results from a finished product.\n\n#ProductDesign #ConsumerTechnology #Hardware",
+    "date": "2026-10-18",
+    "format": "document",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7517818194057711616/",
+    "media": [
+      {
+        "kind": "document",
+        "src": "assets/journal/ordinary-week/vh-ordinary-week.pdf",
+        "alt": "What an everyday utility has to prove",
+        "pages": [
+          {
+            "src": "assets/journal/ordinary-week/vh-ordinary-week-1.jpg",
+            "alt": "What an everyday utility has to prove. Page 1 of 5. The product standard Useful through an ordinary week. What an everyday utility has to prove. The questions guiding our first product. vh.do"
+          },
+          {
+            "src": "assets/journal/ordinary-week/vh-ordinary-week-2.jpg",
+            "alt": "What an everyday utility has to prove. Page 2 of 5. A reason to keep using it The need comes back. The job should recur often enough to justify another object in someone's life. We need evidence of repeat use and a benefit people can recognize. Ease of use and breadth of need both count. vh.do"
+          },
+          {
+            "src": "assets/journal/ordinary-week/vh-ordinary-week-3.jpg",
+            "alt": "What an everyday utility has to prove. Page 3 of 5. Dependable performance The ordinary conditions count. People use products with different habits and different levels of attention. The device needs to handle that variation within a clearly defined job. A prepared demonstration is a starting point. vh.do"
+          },
+          {
+            "src": "assets/journal/ordinary-week/vh-ordinary-week-4.jpg",
+            "alt": "What an everyday utility has to prove. Page 4 of 5. Feedback people can understand Make the outcome clear. Show when the task is complete. Explain when something needs attention. Make any limits understandable. The owner should be able to understand what happened without diagnosing the agent's internal decisions. Clear feedback is part of simplicity. vh.do"
+          },
+          {
+            "src": "assets/journal/ordinary-week/vh-ordinary-week-5.jpg",
+            "alt": "What an everyday utility has to prove. Page 5 of 5. Good to own The whole experience has to work. Price and upkeep belong in the design. The core job should work locally. Each utility should stand on its own. Our first product is still in development. These are requirements we need to establish. vh.do"
+          }
+        ]
+      }
+    ],
+    "publishedAt": "2026-10-19T05:25:38.701Z"
+  },
+  {
+    "id": "ownership",
+    "slug": "ownership",
+    "title": "The core function belongs with the product",
+    "body": "You should be able to use the core function of a product you own without keeping a service running.\n\nFor v/h, that means designing the computing needed for the job into the device itself.\n\nOur aim is straightforward. Power it on and use it without an account, a companion app, an internet connection, or a subscription.\n\nLocal operation creates engineering constraints around cost, power, size, and performance. We have to solve those constraints as part of making the product useful. A prototype that depends on a cloud service for its essential work would leave that part of our philosophy unproven.\n\nEach v/h utility should also stand on its own. Buying one should give you a useful capability without requiring the rest of an ecosystem.\n\nThese are design requirements for our first product, which is still in development.\n\n#ConsumerTechnology #Hardware #ProductDesign",
+    "date": "2026-10-18",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7517818065099800576/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/ownership/vh-ownership.png",
+        "alt": "An ivory and charcoal v/h graphic. The headline reads Yours to use. Four lines state the design requirements: No account for the core job, no companion app, no internet connection, and no subscription. The footer says A design requirement for our first utility."
+      }
+    ],
+    "publishedAt": "2026-10-19T05:25:10.189Z"
+  },
+  {
+    "id": "made-to-be-useful",
+    "slug": "made-to-be-useful",
+    "title": "Made to be useful",
+    "body": "You shouldn't have to be interested in technology to benefit from it.\n\nv/h is building a new kind of everyday consumer utility. We want to give people a useful capability through a physical product whose purpose and controls feel familiar.\n\nThe starting point is a common, recurring need. An agent inside the device should handle the complicated work, so the person using it can get a clear result with less effort.\n\nWe're designing the core function to work locally, without an account, companion app, internet connection, or subscription.\n\nOur first utility is in development. It has to earn a place in an ordinary day through usefulness, simplicity, and dependable results.\n\nFollow v/h for the product decisions and tradeoffs behind that work.\n\n#ConsumerTechnology #ProductDesign #Hardware",
+    "date": "2026-10-18",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7517817874623684608/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/made-to-be-useful/vh-made-to-be-useful.png",
+        "alt": "An ivory v/h wordmark and the words Made to be useful on the brand's red background. Supporting text reads Everyday consumer technology and A new capability. A familiar way to use it."
+      }
+    ],
+    "publishedAt": "2026-10-19T05:24:38.013Z"
+  },
+  {
+    "id": "agent-under-the-hood",
+    "slug": "agent-under-the-hood",
+    "title": "What we mean by an agent under the hood",
+    "body": "The complicated decisions should happen inside the product.\n\nFor v/h, an agent under the hood means a local model connected to the device's inputs and tools. It can interpret the task, act through those tools, and check what happened.\n\nThe owner should have a clear way to start the job and understand the result. They shouldn't need to choose a model, write a prompt, or troubleshoot the agent's reasoning.\n\nThe agent also has to justify the cost and complexity it adds. We would look for a better result, less effort from the owner, or the ability to handle ordinary variation that a simpler mechanism cannot.\n\nThe document below explains the product principle we're building around.\n\nWhat would a device need to show you before you'd trust it to finish a task?\n\n#ConsumerTechnology #ProductDesign #EmbeddedAI",
+    "date": "2026-10-18",
+    "format": "document",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7517817680691884032/",
+    "media": [
+      {
+        "kind": "document",
+        "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood.pdf",
+        "alt": "What we mean by an agent under the hood",
+        "pages": [
+          {
+            "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood-1.jpg",
+            "alt": "What we mean by an agent under the hood. Page 1 of 5. Our approach An agent under the hood. What we want the device to handle so you can get on with your day. A product principle, explained. vh.do"
+          },
+          {
+            "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood-2.jpg",
+            "alt": "What we mean by an agent under the hood. Page 2 of 5. In your hands A clear action. A useful result. Start the job Know the outcome The controls should relate to the task. The result should be understandable. Simple controls and clear feedback. vh.do"
+          },
+          {
+            "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood-3.jpg",
+            "alt": "What we mean by an agent under the hood. Page 3 of 5. Inside the device Understand. Act. Check. A local model uses the device's inputs to interpret the task. Its tools let it act. Feedback lets it check the result and adjust when conditions change. The software needs a way to do the work. vh.do"
+          },
+          {
+            "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood-4.jpg",
+            "alt": "What we mean by an agent under the hood. Page 4 of 5. The reason to use an agent It has to earn its place. A better result The job is completed more successfully. Less effort The owner has less work to do. More useful capability The device handles ordinary variation. A simpler mechanism may already do the job. vh.do"
+          },
+          {
+            "src": "assets/journal/agent-under-the-hood/vh-agent-under-the-hood-5.jpg",
+            "alt": "What we mean by an agent under the hood. Page 5 of 5. The experience we're designing Intelligence inside. Simplicity outside. A useful core function that works locally. An understandable way to start and finish. An object you can depend on. Our first utility is in development. vh.do"
+          }
+        ]
+      }
+    ],
+    "publishedAt": "2026-10-19T05:23:40.639Z"
+  },
+  {
+    "id": "broad-usefulness",
+    "slug": "broad-usefulness",
+    "title": "Easy to use and useful to many people",
+    "body": "A product can be easy for everyone to use and still be useful to almost no one.\n\nEase of use and breadth of need are separate requirements. At v/h, we want both.\n\nA clear button can make a device understandable. The job behind that button still needs to come up often enough for people to want the device in their lives.\n\nWe start with recurring tasks and the workarounds people already use. Then we have to establish whether a new physical utility would make those tasks easier.\n\nThe ambition is a product that earns its place through repeated use. A narrow, clearly defined job can be relevant to a very large number of people.\n\nWhat's a small task you keep repeating because the current way of doing it is still inconvenient? A specific example would help us understand the need.\n\n#ConsumerTechnology #ProductDesign",
+    "date": "2026-10-18",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7517817019447050240/",
+    "media": [],
+    "publishedAt": "2026-10-19T05:21:15.282Z"
+  }
+]
