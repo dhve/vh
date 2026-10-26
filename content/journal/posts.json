@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-10-26-direct-control",
+    "slug": "2026-10-26-direct-control",
+    "title": "The owner should have a direct way to stop",
+    "body": "A Stop button should not depend on a conversation with an AI.\n\nImagine starting a device, then noticing you put the wrong item in. You should be able to stop the task without opening an app or explaining your change of plan.\n\nFor v/h, we want the owner's direct controls to take priority over the agent's plan. The model can adjust how it carries out an agreed task. It should not decide whether a clear request to stop is worth following.\n\nThe feedback needs equal care. A device may need time to finish stopping a mechanism. It should distinguish \"stopping\" from \"stopped,\" so someone knows what is still happening.\n\nA useful development check would be to press Stop while the model is busy, then observe both the mechanism and the feedback. Does the control still work as intended?\n\nWe're treating direct control as a design requirement for our first utility, which is still in development. More decisions handled inside the product should leave the owner with a clear way to change their mind.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-26",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7520508903730659328/",
+    "media": [],
+    "publishedAt": "2026-10-26T15:37:26.807Z"
+  },
+  {
     "id": "2026-10-24-hear-from-you",
     "slug": "2026-10-24-hear-from-you",
     "title": "What would you like to hear from us?",
