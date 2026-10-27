@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026-10-27-the-workaround",
+    "slug": "2026-10-27-the-workaround",
+    "title": "Compare the new device with the existing workaround",
+    "body": "A workaround is evidence of a need. It isn't evidence that people want another device.\n\nImagine someone using a folded towel to keep an object from sliding. A new device might hold it more firmly, but take longer to get out and clean. The towel is already nearby and useful for other things.\n\nBefore replacing a routine, we need to understand what it already does well.\n\nFor v/h, a useful comparison would start with the same person doing the same task in their usual setting. We would compare the result and the effort, including getting ready for the next use. The cost of owning the new device belongs in that comparison too.\n\nThe local agent needs to make a meaningful difference within the job. We should be able to explain which repeated decisions or difficult variations it handles, and how the owner benefits.\n\nThe towel example is illustrative, not a product announcement. Our first utility is still in development. We want evidence that a new capability improves the routine enough to justify another object.",
+    "date": "2026-10-27",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7520872286493720576/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/2026-10-27-the-workaround/2026-10-27-the-workaround.png",
+        "alt": "An ivory v/h design graphic in Neue Montreal. Large charcoal text reads Start with what people already do. Three prompts, separated by red rules, read What already works? What remains difficult? What would a new object improve? The fixed v/h logo is at the top. The footer reads A question guiding product development, with vh.do."
+      }
+    ],
+    "publishedAt": "2026-10-27T15:41:22.675Z"
+  },
+  {
     "id": "2026-10-26-direct-control",
     "slug": "2026-10-26-direct-control",
     "title": "The owner should have a direct way to stop",
