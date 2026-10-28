@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-10-28-computing-budget",
+    "slug": "2026-10-28-computing-budget",
+    "title": "Choose the computing budget around the job",
+    "body": "Before choosing a larger model, we should be able to name the extra work it will do for the owner.\n\nImagine two versions of a utility that do the same job locally. One handles an awkward case on its own. The other needs the person to reposition an item and press Start again.\n\nWe would want to know how often the case comes up and how much effort the adjustment takes. Avoiding a repeated interruption could justify more expensive hardware. Solving a rare inconvenience might not.\n\nA useful comparison would run both versions on hardware that fits the intended product, using the same ordinary tasks. We would count completed jobs and requests for help, including the time the person spends responding.\n\nFor v/h, the computing budget belongs alongside the product's price, power use and size from the start. Moving the core work to an online service would leave our requirement for local operation unproven.\n\nThe example is illustrative. Our first utility is still in development, with attainable cost and local operation as requirements we have to prove.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-28",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7521277855968960512/",
+    "media": [],
+    "publishedAt": "2026-10-28T18:32:59.262Z"
+  },
+  {
     "id": "2026-10-27-the-workaround",
     "slug": "2026-10-27-the-workaround",
     "title": "Compare the new device with the existing workaround",
