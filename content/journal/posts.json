@@ -1,5 +1,36 @@
 [
   {
+    "id": "2026-10-29-useful-memory",
+    "slug": "2026-10-29-useful-memory",
+    "title": "Decide what the device should remember",
+    "body": "A device should have a reason to remember the last task.\n\nImagine a local agent using an image to work out where an object is. It may need that image to act and check the result. Keeping the image after the job is a separate decision.\n\nFor v/h, we want to distinguish the inputs needed for a task from preferences that help with the next use. Remembering a chosen setting could save repeated setup. Saving a record of every task needs its own justification.\n\nWe would want to specify what is stored, why it is needed and when it is cleared. The owner should have an understandable way to clear personal task data without losing the device's core capability.\n\nA development check would be to complete a task, clear the saved personal data, and try the core job again. We would inspect what remains on the device as well as what the interface says was cleared.\n\nThe document uses an imagined example to explain requirements for our first utility, which is still in development.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-29",
+    "format": "document",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7521607460231614464/",
+    "media": [
+      {
+        "kind": "document",
+        "src": "assets/journal/2026-10-29-useful-memory/2026-10-29-useful-memory.pdf",
+        "alt": "Decide what the device should remember",
+        "pages": [
+          {
+            "src": "assets/journal/2026-10-29-useful-memory/2026-10-29-useful-memory-1.jpg",
+            "alt": "Decide what the device should remember. Page 1 of 3. A product design question What should a device remember? Using an input for a task and keeping it afterward are different design choices. Questions for a local consumer utility. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-10-29-useful-memory/2026-10-29-useful-memory-2.jpg",
+            "alt": "Decide what the device should remember. Page 2 of 3. An illustrative example Use an input. Then decide what stays. Task input An image helps an imagined device position an object and check the result. Saved preference A chosen setting could make the next use easier without keeping that image. Keeping either needs a clear purpose. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-10-29-useful-memory/2026-10-29-useful-memory-3.jpg",
+            "alt": "Decide what the device should remember. Page 3 of 3. Proposed development checks Make clearing data part of the job. Describe what is kept. Explain why it is needed. Check that clearing works. Keep the core capability usable. Our first utility is still in development. vh.do"
+          }
+        ]
+      }
+    ],
+    "publishedAt": "2026-10-29T16:22:43.047Z"
+  },
+  {
     "id": "2026-10-28-computing-budget",
     "slug": "2026-10-28-computing-budget",
     "title": "Choose the computing budget around the job",
