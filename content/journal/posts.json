@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-10-30-lasting-feedback",
+    "slug": "2026-10-30-lasting-feedback",
+    "title": "Make the task status clear after the beep",
+    "body": "You shouldn't have to catch a beep to know whether a task finished.\n\nImagine leaving a utility running while you step into another room. When you return, the sound is over. You still need to know whether the job finished, stopped early, or needs your help.\n\nFor v/h, we want the task status to remain understandable after the sound stops. A short label such as \"Finished\" could accompany a light. Color and sound could draw attention, while the label preserves the meaning.\n\nWe would check the interface with sound muted and its colors shown in grayscale. Then we would ask someone returning to the device to explain its state and their next step, without coaching.\n\nA local agent may handle a complicated task, but the owner should not need to watch closely to understand the outcome.\n\nThe example describes a design requirement for our first utility, which is still in development.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-30",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7521984337588977664/",
+    "media": [],
+    "publishedAt": "2026-10-30T17:02:16.472Z"
+  },
+  {
     "id": "2026-10-29-useful-memory",
     "slug": "2026-10-29-useful-memory",
     "title": "Decide what the device should remember",
