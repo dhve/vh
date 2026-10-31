@@ -1,5 +1,32 @@
 [
   {
+    "id": "2026-10-31-ordinary-conditions",
+    "slug": "2026-10-31-ordinary-conditions",
+    "title": "Test the utility where it will be used",
+    "body": "The room shouldn't need to be arranged around the device.\n\nFor a utility that uses a camera, a shadow across the work area could change what it can see. Asking the owner to find the right lamp each time would add work to an ordinary task.\n\nA useful development check would keep the task fixed while changing one condition at a time. Try it beside a window, in evening light, and with the object turned a different way. Record the result and every adjustment the person has to make.\n\nIf the device needs consistent lighting, we should account for it in the physical design. A built-in light or a different viewing angle may be part of the solution. A larger model still has to work with the information the device can actually capture.\n\nFor v/h, the local agent and the object around it need to be designed together. The owner should be able to use a new capability in an ordinary setting with familiar controls.\n\nThe camera example is illustrative. Our first utility is still in development, and dependable use in ordinary conditions is a requirement we have to prove.",
+    "date": "2026-10-31",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7522320714553827328/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/2026-10-31-ordinary-conditions/2026-10-31-ordinary-conditions.png",
+        "alt": "An ivory v/h logo on charcoal. The headline reads Test it where it will live. A red rule separates three prompts: Change the light. Turn the object. Count requests for help. The footer reads A proposed check during development, with vh.do. All lettering uses Neue Montreal."
+      }
+    ],
+    "publishedAt": "2026-10-31T15:36:54.628Z"
+  },
+  {
+    "id": "2026-10-30-lasting-feedback-earlier-post",
+    "slug": "2026-10-30-lasting-feedback-earlier-post",
+    "title": "Make the task status clear after the beep",
+    "body": "You shouldn't have to catch a beep to know whether a task finished.\n\nImagine leaving a utility running while you step into another room. When you return, the sound is over. You still need to know whether the job finished, stopped early, or needs your help.\n\nFor v/h, we want the task status to remain understandable after the sound stops. A short label such as \"Finished\" could accompany a light. Color and sound could draw attention, while the label preserves the meaning.\n\nWe would check the interface with sound muted and its colors shown in grayscale. Then we would ask someone returning to the device to explain its state and their next step, without coaching.\n\nA local agent may handle a complicated task, but the owner should not need to watch closely to understand the outcome.\n\nThe example describes a design requirement for our first utility, which is still in development.\n\n#ProductDesign #ConsumerTechnology",
+    "date": "2026-10-30",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7521979890548682752/",
+    "media": []
+  },
+  {
     "id": "2026-10-30-lasting-feedback",
     "slug": "2026-10-30-lasting-feedback",
     "title": "Make the task status clear after the beep",
