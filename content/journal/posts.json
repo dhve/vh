@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-10-familiar-controls",
+    "slug": "2026-11-10-familiar-controls",
+    "title": "Keep familiar controls through updates",
+    "body": "A software update shouldn't make you relearn a familiar control.\n\nFor an everyday device, the owner's learned actions are part of what needs to keep working. A press that starts the job should still start it. A setting should still describe the same intended result.\n\nBefore changing the software, we would record what each physical action does and how completion is shown. A new feature should not take over an existing gesture or reset a saved preference without the owner's choice.\n\nOne proposed release check would let someone get familiar with one version. After installing an update, we would ask them to repeat the same ordinary task without another demonstration. We would record new mistakes and requests for help alongside any improvement in the result.\n\nWe would repeat the check with the device offline. Updating the local model must not add an account, app or connection requirement to the core job.\n\nFor v/h, the agent can improve how the work gets done while familiar controls continue to mean what the owner expects.\n\nOur first utility is in development. These are proposed requirements and checks, not results from a released product.",
+    "date": "2026-11-10",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7526004637909483521/",
+    "media": []
+  },
+  {
     "id": "2026-11-09-one-request",
     "slug": "2026-11-09-one-request",
     "title": "A press needs a response",
