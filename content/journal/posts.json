@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-11-11-clear-without-color",
+    "slug": "2026-11-11-clear-without-color",
+    "title": "Make the result clear without color",
+    "body": "A red light shouldn't be the whole explanation.\n\nFor an everyday utility, the result should stay understandable when color is hard to distinguish or a sound is missed. A clear word, symbol or physical position should carry the meaning as well.\n\nImagine a device showing \"Done\" with a check mark, or \"Needs attention\" with a different symbol and an instruction to reposition the object. The two states should remain distinct in the same color. The symbols still need checking with people who haven't learned them.\n\nOne proposed design check would show each state without its color cue, then without sound. Ask the person what happened and what they would do next. Record mistaken interpretations instead of asking whether the interface looks clear.\n\nAn agent under the hood can interpret inputs and check the work. Its feedback should tell the owner the outcome and any action they need to take, without requiring an app to explain a light.\n\nOur first utility is in development. The device and graphic are illustrative, and the check is proposed.",
+    "date": "2026-11-11",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7526321807247818752/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/2026-11-11-clear-without-color/2026-11-11-clear-without-color.png",
+        "alt": "A red v/h poster with the fixed ivory logo and the heading Color should not be the only cue. Two ivory outlined panels use the same colors. A check mark accompanies Done and Remove the object. A triangle with an exclamation mark accompanies Needs attention and Reposition the object. Below, The next step should be clear. The footer labels the states illustrative and the requirement proposed."
+      }
+    ]
+  },
+  {
     "id": "2026-11-10-familiar-controls",
     "slug": "2026-11-10-familiar-controls",
     "title": "Keep familiar controls through updates",
