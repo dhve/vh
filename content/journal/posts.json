@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-12-between-tasks",
+    "slug": "2026-11-12-between-tasks",
+    "title": "Test the time between tasks",
+    "body": "An automatic device needs testing when nobody is asking it to do anything.\n\nImagine a tabletop utility that starts when an object is placed in its working area. Setting down a mug beside it or wiping the surface should not begin a job.\n\nWe would include ordinary activity around an idle device in development checks. Record every unwanted start and the effort needed to stop it, alongside how long the device was observed.\n\nThen repeat deliberate uses in the same room. Reducing unwanted starts is not an improvement if the owner now has to arrange objects perfectly or try several times to get the intended job started.\n\nFor v/h, the local agent should help distinguish a request from nearby activity. The shape of the working area and the physical controls should also make that distinction clear to the owner. An app shouldn't be needed to explain why the device started.\n\nOur first utility is in development. The tabletop device is an illustrative example, and these are proposed checks.",
+    "date": "2026-11-12",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7526712043110850560/",
+    "media": []
+  },
+  {
     "id": "2026-11-11-clear-without-color",
     "slug": "2026-11-11-clear-without-color",
     "title": "Make the result clear without color",
