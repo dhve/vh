@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-24-learn-from-choices",
+    "slug": "2026-11-24-learn-from-choices",
+    "title": "Learn from the person's choices",
+    "body": "If a lamp turns itself off at ten, that doesn't mean you chose ten.\n\nSuppose someone usually switches a lamp off near ten. Once the lamp starts helping automatically, its own switch-offs must not count as fresh evidence of the person's preference.\n\nOtherwise, repeating the same action could make a tentative guess look like a stronger habit. Leaving an automatic action uncorrected is also weaker evidence than deliberately using the switch.\n\nFor the lamp we're designing, learning should distinguish between a person using the control, an automatic action and a person correcting that action. The distinction belongs inside the lamp. Nobody should have to label their behavior or manage a training screen.\n\nA useful development check would replay a routine with no new manual choices. The lamp should not become more certain about a preferred time merely because it keeps repeating its own decision.\n\nNo physical prototype has been built yet. We still need to validate the proposed learning requirement.",
+    "date": "2026-11-24",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7531032663021846528/",
+    "media": []
+  },
+  {
     "id": "2026-11-23-a-later-evening",
     "slug": "2026-11-23-a-later-evening",
     "title": "Leave room for a later evening",
