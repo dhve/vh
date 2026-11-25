@@ -1,5 +1,21 @@
 [
   {
+    "id": "2026-11-25-light-from-the-chair",
+    "slug": "2026-11-25-light-from-the-chair",
+    "title": "Judge the light from the chair",
+    "body": "A lamp can light the page and still be uncomfortable to sit beside.\n\nFor the v/h lamp, we want to judge the light from the chair. The useful view is the one someone has while reading, leaning back or reaching for the switch.\n\nOur proposed check would look for a bright source directly in the reader's line of sight, a hand casting a shadow across the page, and a control that takes an awkward reach. We would repeat it with the lamp on either side and at different brightness settings.\n\nThe shade, light source and controls should make the lamp useful before it has learned any routine. Local assistance then has to reduce the effort of using the lamp.\n\nNo physical prototype has been built yet. We still need to build and validate the light and controls described here.",
+    "date": "2026-11-25",
+    "format": "image",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7531395199835516930/",
+    "media": [
+      {
+        "kind": "image",
+        "src": "assets/journal/2026-11-25-light-from-the-chair/2026-11-25-light-from-the-chair.png",
+        "alt": "An ivory v/h poster with the fixed charcoal logo and the headline Judge the light from the chair, with chair in red. Three lines read Read the page, Check the light in your eyes, and Reach for the switch. The footer says Proposed checks. No physical prototype yet."
+      }
+    ]
+  },
+  {
     "id": "2026-11-24-learn-from-choices",
     "slug": "2026-11-24-learn-from-choices",
     "title": "Learn from the person's choices",
