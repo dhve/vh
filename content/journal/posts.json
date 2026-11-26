@@ -1,5 +1,15 @@
 [
   {
+    "id": "2026-11-26-when-power-returns",
+    "slug": "2026-11-26-when-power-returns",
+    "title": "When power returns",
+    "body": "When the power comes back at 3 a.m., the lamp should stay off.\n\nFor the v/h lamp, our intended behavior is to wait for someone to use the physical switch. A power interruption should not lead to a startup flash or the resumption of an old automatic action.\n\nThe design should retain learned patterns through normal unplugging. If timing information is lost, timed assistance should pause while ordinary on/off use stays available. Nobody should need a phone to make the lamp usable again.\n\nWe would test power loss while the lamp is on, off and partway through a fade, then check the first moments after each restart. Remembering a routine and deciding whether to act on it need separate checks.\n\nNo physical prototype has been built yet. We still need to build and validate the restart behavior described here.",
+    "date": "2026-11-26",
+    "format": "text",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:share:7531793020048916480/",
+    "media": []
+  },
+  {
     "id": "2026-11-25-light-from-the-chair",
     "slug": "2026-11-25-light-from-the-chair",
     "title": "Judge the light from the chair",
