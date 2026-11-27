@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-11-27-better-than-a-timer",
+    "slug": "2026-11-27-better-than-a-timer",
+    "title": "Learning should reduce corrections",
+    "body": "A lamp that learns should need fewer corrections than a timer.\n\nFor the v/h lamp, we want to compare ordinary use with a switch, a fixed schedule and local assistance. The comparison should cover the same varied routine, including an evening that runs late.\n\nWe would record unwanted changes to the light, the corrections people make and the time spent setting things up. Ordinary use of the switch should be recorded separately from having to undo an automatic action.\n\nThe learning version should reduce effort while leaving people in control of the light. An automatic switch-off only counts as help when the person wanted it.\n\nIf a simple timer gives the same benefit with less cost and fewer corrections, we should simplify the design. The local model and supporting hardware have to earn their place in everyday use.\n\nNo physical prototype has been built yet. The document describes a proposed comparison, not results from testing.",
+    "date": "2026-11-27",
+    "format": "document",
+    "sourceURL": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7532118988697370624/",
+    "media": [
+      {
+        "kind": "document",
+        "src": "assets/journal/2026-11-27-better-than-a-timer/2026-11-27-better-than-a-timer.pdf",
+        "alt": "Learning should reduce corrections",
+        "pages": [
+          {
+            "src": "assets/journal/2026-11-27-better-than-a-timer/2026-11-27-better-than-a-timer-1.jpg",
+            "alt": "Learning should reduce corrections. Page 1 of 3. The lamp, in development Learning should mean fewer corrections. Compare local assistance with an ordinary switch and a timer. Use the same varied routine. Proposed comparison. No physical prototype yet. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-11-27-better-than-a-timer/2026-11-27-better-than-a-timer-2.jpg",
+            "alt": "Learning should reduce corrections. Page 2 of 3. Give simpler options a fair comparison The same evening. Different controls. Switch The person chooses each change. Timer A fixed schedule controls the light. Local assistance Habits and current cues inform a change. Include an evening that runs late. Proposed comparison. No physical prototype yet. vh.do"
+          },
+          {
+            "src": "assets/journal/2026-11-27-better-than-a-timer/2026-11-27-better-than-a-timer-3.jpg",
+            "alt": "Learning should reduce corrections. Page 3 of 3. Judge the effort of ordinary use Count what people have to correct. Unwanted changes to the light Actions taken to undo them Time spent on setup Keep the simpler design if learning does not improve everyday use. Proposed comparison. No physical prototype yet. vh.do"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-11-26-when-power-returns",
     "slug": "2026-11-26-when-power-returns",
     "title": "When power returns",
